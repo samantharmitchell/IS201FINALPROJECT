@@ -1,0 +1,33 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Georgia;
+    color: pink;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    font-size: medium;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: tan;
+}
+
+img{
+   width: 100%;
+   height: 100%;
+   
+}
+
+a{
+    font-display: underline;
+}
